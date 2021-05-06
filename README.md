@@ -4,6 +4,8 @@ This is the delivery of the second lab of I.S.: Sheep Rescue game.
 I managed to go through the whole instructions solving the issues that appeared here and there, furthermore, I managed to fulfill all the requests yet I 
   did not manage to implement any further improvement of this game; besides, there is some sort of bug I tried to fix for hours and hours and did not manage
   where the sheeps score twice and do twice the "Drop()" code function when they fall over the edge of the map.
+
+Besides, I made a small mistake regarding the windmill wheel rotation at the beginning of the game.
   
 This being said, you can start the game and click on the hay machine to change to your favorite color! There is Blue, Yellow and Red, once you have selected it
   just click start and the game will save your preferences and change the scene to play, you can also click quit and close the application.
